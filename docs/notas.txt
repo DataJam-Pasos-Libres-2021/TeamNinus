@@ -1,0 +1,10 @@
+- en el archivo ganancias promedio por ocupacion no hay paises primer mundistas?
+- en el archivo social proyection, se deben unificar los datos para que solo se tenga un registro por pais
+- en el archivo empleo informal, se tienen datos para agricultura, no agricultura.
+- occupational_injuriries tiene informacion clasificacion por inmigrantes.
+- manufactoring employment esta como una proporcion del empleo total.
+- todos los datos que referentes a empleo son de edad +15
+- working poverty rate es ingresos por debajo de 1.9 dolares
+- en youth_15-24 esta la poblacion de jovenes entre 15-24 que no esta trabajando, educandose o en entrenamiento
+
+ 
