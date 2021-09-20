@@ -1,4 +1,4 @@
-# DataJam Pasos Libres 2021 - _**Project name**_
+# DataJam Pasos Libres 2021 - _**Estimador de indice de prevalencia de esclavitud moderna**_
 
 <span style="color:blue">_This is a repository for research projects in the human trafficking domain. It includes all future related project ideas or research topics that would be useful for our project._
 
