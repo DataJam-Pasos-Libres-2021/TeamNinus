@@ -22,7 +22,7 @@ _A pitch of maximum 4 minutes._
 
 Hint: Recommended is to add here just link(s), for example to Youtube recording:
 
-Example location: [link to video](https://youtu.be/gWJvIpraDjo)
+Location: [link to video](https://youtu.be/gWJvIpraDjo)
 
 GitHub Limitations:
 
