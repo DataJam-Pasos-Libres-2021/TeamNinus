@@ -6,21 +6,26 @@ _Each topic would have a separate repository. This would include the following:_
 
 ## 1. Problem Statement
 
-_A description of an issue to be addressed._
+¿ESCLAVITUD LABORAL MODERNA
+Y COMO IDENTIFICAR LOS PAISES
+MAS SUCEPTIBLES A PRESENTARLA?
 
 ## 2. Objective
-
-_Objective of the solutions (the challenge, problem or need that it contributes to solve)._
+Estimar el indice de prevalencia de esclavitud moderna por pais.
 
 ## 3. Solution/Data use case description
 
-_A comprehensive description of the data-based solution or/and data use case._
+A partir de las siguientes variables el modelo de pronostico nos entrega una estimacion sobre el indice de prevalencia de esclavitud para un pais
 
+-'FACTOR ONE GOVERNANCE ISSUES '
+-'PERSONS ABOVE RETIREMENT AGE
+RECEIVING A PENSION'
+-'YOUTH_NINI'
+-'EMPLOYED COVERED IN THE EVENT OF WORK
+INJURY'
+-'POVERTY_RATE '
+-'FACTOR FIVE EFFECTS OF CONFLICT'
 ## 4. Pitch
-
-_A pitch of maximum 4 minutes._
-
-Hint: Recommended is to add here just link(s), for example to Youtube recording:
 
 Location: [link to video](https://youtu.be/gWJvIpraDjo)
 
@@ -33,30 +38,12 @@ GitHub Limitations:
 
 Location: [/datasets](datasets)
 
-_A list of data sets, sources and challenges for the research project._
-This would include:
-
-- API access to required TAH data
-- Access to other datasets (either through API or downloaded)
-- Statements on data quality issues, transformations needed
-- Container for new data generated for this research (i.e. through merging other data sets)
-
 ## 6. Project Code
 
 Location: [/project](project)
 
-This would include the following:
-
-- Data transformations, merging & quality assurance
-- Model related code (projection, prediction, correlation etc.)
-- User Interface code
 
 ## 7. Additional docs (Optional)
 
 Location: [/docs](docs)
 
-- PowerPoint presentation
-- Flayers
-- Additional videos/demo
-- Protocols
-- Guides
