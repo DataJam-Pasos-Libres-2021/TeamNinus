@@ -17,14 +17,14 @@ Estimar el indice de prevalencia de esclavitud moderna por pais.
 
 A partir de las siguientes variables el modelo de pronostico nos entrega una estimacion sobre el indice de prevalencia de esclavitud para un pais
 
--'FACTOR ONE GOVERNANCE ISSUES '
--'PERSONS ABOVE RETIREMENT AGE
+- 'FACTOR ONE GOVERNANCE ISSUES '
+- 'PERSONS ABOVE RETIREMENT AGE
 RECEIVING A PENSION'
--'YOUTH_NINI'
--'EMPLOYED COVERED IN THE EVENT OF WORK
+- 'YOUTH_NINI'
+- 'EMPLOYED COVERED IN THE EVENT OF WORK
 INJURY'
--'POVERTY_RATE '
--'FACTOR FIVE EFFECTS OF CONFLICT'
+- 'POVERTY_RATE '
+- 'FACTOR FIVE EFFECTS OF CONFLICT'
 ## 4. Pitch
 
 Location: [link to video](https://youtu.be/gWJvIpraDjo)
